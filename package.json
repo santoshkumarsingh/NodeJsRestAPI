@@ -1,0 +1,27 @@
+{
+  "name": "mongo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "express": "~4.13.0",
+    "gulp": "~3.9.0",
+    "mongoose": "~4.0.6",
+    "gulp-nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santoshkumarsingh/NodeJSRestService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshkumarsingh/NodeJSRestService/issues"
+  },
+  "homepage": "https://github.com/santoshkumarsingh/NodeJSRestService"
+}
